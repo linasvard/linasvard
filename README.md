@@ -25,7 +25,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl1dHB3c2oydGk4Z3hjeDltNGhweTF6ZTg3cWdvbThqdjlmMHp3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="En tecknad kodande man animation"/>
 
 
-### ⬇️ Pinnade projekt jag är stolt över 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD184&center=true&vCenter=true&width=435&lines=%E2%86%93+kika+in+mina+pinnade+projekt+nedan)](https://git.io/typing-svg)
 
 </div>
 
