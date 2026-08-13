@@ -1,6 +1,8 @@
 <div align="center">
   
-# Hej, Lina heter jag 👋
+<!-- # Hej, Lina heter jag 👋 --->
+
+[![Hej, jag heter Lina!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1&pause=1000&color=E97DC2&center=true&vCenter=true&repeat=false&width=435&lines=Hej%2C+Lina+heter+jag!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 *Front-end student | Grafisk formgivare*
 
