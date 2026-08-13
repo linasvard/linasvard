@@ -12,6 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l.inas)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:linajsvard@hotmail.com)
 
+
 ## 🔧 Verktygslåda
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,vscode,js,ts,nodejs,npm,github,regex,apple,figma,xd,ai,ps,au,svg,instagram,discord,linkedin,&theme=dark)](https://skillicons.dev)
@@ -22,6 +23,9 @@
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl1dHB3c2oydGk4Z3hjeDltNGhweTF6ZTg3cWdvbThqdjlmMHp3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="En tecknad kodande man animation"/>
+
+
+## ⬇️ Pinnade projekt jag är stolt över 
 
 </div>
 
