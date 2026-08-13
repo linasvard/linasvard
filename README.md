@@ -4,7 +4,7 @@
 
 *Front-end student | Grafisk formgivare*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CAC&center=true&vCenter=true&lines=console.log(%22still+learning%22);%3E+npm+install+patience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=E97DC2&background=1F1E2F&center=true&vCenter=true&random=true&width=435&lines=%3E+npm+install+patience;console.log(%22still+learning%22);git+commit+-m+%22final_FINAL_v2_fixed%22;still+debugging...)](https://git.io/typing-svg)
 
 ## 💬 Connect
 
@@ -15,6 +15,8 @@
 ## 🔧 Verktygslåda
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,vscode,js,ts,nodejs,npm,github,regex,apple,figma,xd,ai,ps,au,svg,instagram,discord,linkedin,&theme=dark)](https://skillicons.dev)
+
+## 📊 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=linasvard&theme=duskfox&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
