@@ -20,6 +20,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=linasvard&theme=duskfox&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHl1dHB3c2oydGk4Z3hjeDltNGhweTF6ZTg3cWdvbThqdjlmMHp3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="En tecknad kodande man animation"/>
+
 </div>
 
 
