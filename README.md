@@ -16,6 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,vscode,js,ts,nodejs,npm,github,regex,apple,figma,xd,ai,ps,au,svg,instagram,discord,linkedin,&theme=dark)](https://skillicons.dev)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=linasvard&theme=duskfox&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 </div>
 
