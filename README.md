@@ -8,14 +8,14 @@
 
 ## 💬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DITT-NAMN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DIN-MAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DITT-ANVÄNDARNAMN)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DIN-INBJUDNINGSKOD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-sv%C3%A4rd-b04a12109/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l.inas)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:linajsvard@hotmail.com)
 
 ## 🔧 Verktygslåda
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,vscode,js,ts,nodejs,npm,github,regex,apple,figma,xd,ai,ps,au,svg,instagram,discord,linkedin,&theme=dark)](https://skillicons.dev)
+
 
 </div>
 
