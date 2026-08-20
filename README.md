@@ -21,7 +21,7 @@
 
 *Det här kan jag*
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,vscode,js,ts,nodejs,npm,github,regex,apple,figma,xd,ai,ps,au,svg,instagram,discord,linkedin,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,vite,vscode,js,ts,nodejs,express,npm,github,regex,apple,figma,xd,ai,ps,au,svg,instagram,discord,linkedin,&theme=dark)](https://skillicons.dev)
 
 ## 📊 Stats
 
