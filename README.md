@@ -34,7 +34,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD184&center=true&vCenter=true&width=435&lines=%E2%86%93+kika+in+mina+pinnade+projekt+nedan)](https://git.io/typing-svg)
 
 </div>
-
-
-- ⚡ Fun fact: ...
--->
